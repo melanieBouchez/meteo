@@ -1,0 +1,30 @@
+html{
+    font-size: 16px;
+    font-family: 'Roboto sans-Serif';
+}
+.container
+{
+    padding: 1.563rem;
+    margin: 0;
+}
+table, th, td 
+{
+    border: 1px solid black;
+}
+#blue
+{
+    background-color: #33D1FF;
+}
+#green
+{
+    background-color: #49FF33;
+}
+#yellow
+{
+    background-color: #ffff33;
+}
+.form-group
+{
+    width: 90%;
+    margin-bottom: 20px;
+}
